@@ -1,0 +1,4 @@
+MyFFmpegDemo
+============
+
+FFmpeg study
